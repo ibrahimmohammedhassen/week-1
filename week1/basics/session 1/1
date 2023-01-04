@@ -1,0 +1,13 @@
+print("pytho syntax is  simple to learn")
+print()
+a = 2
+b = 4
+print(10)
+print()
+
+print(a*b)
+#=-+/%
+
+print(10 % 3)
+user = input("please enter your age: ")
+print("your age is", user)
